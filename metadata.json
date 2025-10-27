@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Language Pal",
+  "description": "A language learning app that provides a real-time conversational AI partner for practice using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
